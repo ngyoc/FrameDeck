@@ -1,0 +1,19 @@
+# ビルド成果物
+build/
+dist/
+.build/
+DerivedData/
+
+# Xcode のユーザー固有ファイル
+*.xcuserdatad
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# 手元だけに置く作業ファイル（公開しない）
+TASK.md
+CLAUDE.md
+REQUIREMENTS.md
+docs/design-rules.md
